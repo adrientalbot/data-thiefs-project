@@ -22,3 +22,5 @@ In this project you will need to get all the information by yourself :scream:
 ## Deliverables
 * Slides (we will provide the template)
 * A zeppelin notebook with the insights
+* Database in Google Cloud
+* Repository
